@@ -2,7 +2,7 @@
 //Name -
 //Date -
 //Class -  
-//Lab  - This lab converts Spanish words to English and provides a translation option.
+//Lab  - This lab converts Spanish words to English and provides a method that translates sentences.
 
 import java.util.Map;
 import java.util.TreeMap;
