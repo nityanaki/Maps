@@ -1,8 +1,8 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -  
-//Lab  -
+//Lab  - This lab converts Spanish words to English and provides a translation option.
 
 import java.util.Map;
 import java.util.TreeMap;
