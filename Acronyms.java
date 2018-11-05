@@ -2,7 +2,7 @@
 //Name -  
 //Date -
 //Class -
-//Lab  -
+//Lab  - This lab converts given acronyms to words or phrases.
 
 import java.io.File;
 import java.io.IOException;
